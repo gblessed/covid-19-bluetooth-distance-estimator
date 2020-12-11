@@ -1,6 +1,6 @@
 # covid-19 bluetooth-distance-estimator
 The dataset.json is the dataset we collected for distance estimation. We have collected 272 samples The following are the parameters collected:
-- ground distance (label) in m
+- ground distance (label) in meters
 - bluetooth rssi
 - battery status charging/not charging
 - battery temperature
@@ -29,7 +29,6 @@ Neural network
 -Accuracy: 0.45
 -Precision: 0.38
 -Recall: 0.32
-SVM
 Results using SVM with polynomial Kernel
 -Accuracy: 0.54
 -Precision: 0.54

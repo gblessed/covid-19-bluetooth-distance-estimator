@@ -26,11 +26,11 @@ We run it for 50 epochs.
 # Benchmark Results
 We use the 80-20 train test split
 Neural network
-Accuracy: 0.45454545454545453
-Precision: 0.3827619047619048
-Recall: 0.3230769230769231
+-Accuracy: 0.45
+-Precision: 0.38
+-Recall: 0.32
 SVM
 Results using SVM with polynomial Kernel
-Accuracy: 0.5454545454545454
-Precision: 0.5454545454545454
-Recall: 0.5454545454545454
+-Accuracy: 0.54
+-Precision: 0.54
+-Recall: 0.54

@@ -29,10 +29,12 @@ We run it for 50 epochs.
 
 # Benchmark Results
 We use the 80-20 train test split
+
 **test-1 : using Neural network**
 -Accuracy: **0.45**
 -Precision: **0.38**
 -Recall: **0.32**
+
 **test-2 using SVM  SVM with polynomial Kernel**
 -Accuracy: **0.54**
 -Precision: **0.54**
